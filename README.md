@@ -8,7 +8,7 @@ The GitHub Pages site uses the **root `index.html`** as the application entry po
 
 After enabling GitHub Pages from `main` → `/ (root)`, open:
 
-`https://srijan-sanyal.github.io/StockSense/`
+`https://arshthakur272-cmd.github.io/StockSense/`
 
 ## Features
 
